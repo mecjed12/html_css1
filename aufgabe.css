@@ -1,0 +1,44 @@
+#bild {
+    width: 650px;
+}
+body {
+    background-color: #3574f3;
+}
+#text1 {
+   text-align: center;
+   color: darkorange;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 50px;
+}
+#text2 {
+    text-align: center;
+    color: darkred;
+
+}
+#text3 {
+    text-align: center;
+    color: whitesmoke;
+}
+#bild {
+    display: flex;
+    margin-left: 290px;
+    margin-top: 200px;
+
+
+    
+}
+#link {
+    font-size: 30px;
+    align-items: center;
+    margin-left: 560px;
+    border: 1px solid;
+}
+#texto {
+    text-align: center;
+    color: violet;
+    margin-top: 10cm;
+    font-size: 40px;
+}
+#farbe {
+    background-color: wheat;
+}
